@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as st  # type: ignore[import]
 
 st.set_page_config(
     page_title="UAS Data Mining - Diabetes & Gerai Kopi",

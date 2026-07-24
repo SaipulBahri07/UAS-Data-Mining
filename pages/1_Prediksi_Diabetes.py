@@ -1,5 +1,5 @@
 try:
-    import streamlit as st
+    import streamlit as st  # type: ignore[import]
 except Exception:
     # Fallback stub for environments where streamlit is not installed (e.g., linting)
     class _DummyColumn:
