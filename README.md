@@ -1,6 +1,6 @@
 # UAS Data Mining (SIF304) — Klasifikasi Diabetes & Clustering Gerai Kopi
 
-**Nama  :** _saipul bahri_
+**Nama  :** _Saipul Bahri_
 **NIM   :** _23146010_
 **Mata Kuliah :** Data Mining (SIF304)
 **Dosen Pengampu :** Teuku Rizky Noviandy, S.Kom., M.Kom.
