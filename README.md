@@ -63,7 +63,7 @@ Aplikasi web berbasis **Streamlit** yang mengimplementasikan dua model data mini
 
 ## 🛠️ Teknologi yang Digunakan
 
-- Python 3
+- Python 3.10.6
 - Streamlit
 - scikit-learn
 - Pandas & NumPy
