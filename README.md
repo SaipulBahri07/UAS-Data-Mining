@@ -1,7 +1,7 @@
 # UAS Data Mining (SIF304) — Klasifikasi Diabetes & Clustering Gerai Kopi
 
-**Nama  :** _(isi nama kamu)_
-**NIM   :** _(isi NIM kamu)_
+**Nama  :** _saipul bahri_
+**NIM   :** _23146010_
 **Mata Kuliah :** Data Mining (SIF304)
 **Dosen Pengampu :** Teuku Rizky Noviandy, S.Kom., M.Kom.
 
@@ -33,7 +33,7 @@ Aplikasi web berbasis **Streamlit** yang mengimplementasikan dua model data mini
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/NAMA_REPO.git
+   git clone https://github.com/SaipulBahri07/UAS-Data-Mining.git
    cd NAMA_REPO
    ```
 2. (Opsional tapi disarankan) buat virtual environment:
@@ -53,8 +53,7 @@ Aplikasi web berbasis **Streamlit** yang mengimplementasikan dua model data mini
 
 ## 🌐 Link Aplikasi Streamlit (Live Demo)
 
-👉 _(isi link Streamlit Cloud kamu di sini setelah deploy, contoh:
-https://nama-repo-kamu.streamlit.app)_
+👉 link Streamlit Cloud :https://uasdataminingsaipul23146010.streamlit.app/
 
 ## 📊 Dataset
 
