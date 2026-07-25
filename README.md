@@ -53,7 +53,13 @@ Aplikasi web berbasis **Streamlit** yang mengimplementasikan dua model data mini
 
 ## 🌐 Link Aplikasi Streamlit (Live Demo)
 
-👉 link Streamlit Cloud :https://uasdataminingsaipul23146010.streamlit.app/
+👉 link Streamlit Cloud 
+:https://uas-data-mining-saipul10.streamlit.app/
+
+
+## 🌐 Link Revo Github 
+
+https://github.com/SaipulBahri07/UAS-Data-Mining.git
 
 ## 📊 Dataset
 
